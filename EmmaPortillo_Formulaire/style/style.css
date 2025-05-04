@@ -1,0 +1,34 @@
+#formContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#formDone{
+    display: none;
+}
+
+form{
+    width: 20%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+#feedBackContainer{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+
+}
+
+#feedBack{
+    width: 200px;
+    height: 50px;
+
+    border: 2px solid black;
+    padding-left: 20px;
+
+}
+
